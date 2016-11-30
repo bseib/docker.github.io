@@ -186,7 +186,7 @@ To upgrade your kernel and install the additional packages, do the following:
     ```
 
 5.  After your system reboots, go ahead and
-    [install Docker](ubuntulinux.md#install).
+    [install Docker](ubuntulinux.md#Install-the-latest-version).
 
 ## Install the latest version
 
